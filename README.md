@@ -21,19 +21,19 @@
 <p align='justify'>- Há um menu lateral à esquerda da página onde são listados os serviços do Azure por Categorias, por exemplo: IA, Machine Learning, Computação,
   Contêiners, Bancos de Dados etc.</p>  
 
-<img src=''>  
+<img src='https://github.com/rosacarla/resumo-do-lab1-az900/blob/main/images/tela-computacao.png' width=880>  
 
 <p align='justify'>- Como exemplos de serviços, foram exploradas as categorias de Computação, Rede e Armazenamento, para conhecer as listas de opções
   de recursos de cada uma.</p>  
 
-  <img src=''>  
+  <img src='https://github.com/rosacarla/resumo-do-lab1-az900/blob/main/images/tela-rede.png' width=880>  
   
 <p align='justify'>- Na categoria Redes, foi destacado o serviço <i>Bastions</i> (ou Bastião), como uma rede segura para configurar o acesso à internet para máquinas
   virtuais; funciona como um <i>jump server</i>, ou seja, um servidor usado como ponte para conectar outras máquinas. Esse termo técnico equivale a 
   <i>jumpbox</i> ou <i>host</i> administrativo seguro, e é um computador em uma rede tipicamente utilizada para administrar dispositivos em uma área de segurança
   separada <a src='https://pt.wikipedia.org/wiki/Jump_server'>(Wikipedia)</a>.</p>  
 
-  <img src=''>  
+  <img src='https://github.com/rosacarla/resumo-do-lab1-az900/blob/main/images/tela-armazenamento.png' width=880>  
   
 <p align='justify'>- Existe possíbilidade de criar <i>firewall</i> na nuvem, o que é bastante necessário e recomendável.</p>
 <p align='justify'>- Alguns serviços estão sinalizados com a tag “VERSÃO PRÉVIA”, porque está no início de sua disponibilização, ainda não têm garantia de 
