@@ -8,8 +8,8 @@
 ## ⏯️ INTRODUÇÃO  
 
 <p align='justify'>Neste laboratório inicial do bootcamp <i>Azure Essencials</i>, foi realizada uma navegação exploratória pelo portal <a src='https://portal.azure.com/'>
-  Microsoft Azure</a>, que é disponibilizado a todos os usuários sem distinção. Essa prática tinha como requisito obrigatório a criação de uma conta para utilização 
-  gratuita do Azure por 30 dias, cujas instruções foram passadas em módulo anterior ao laboratório. </p>  
+  <i>Microsoft Azure</i></a>, que é disponibilizado a todos os usuários sem distinção. Essa prática tinha como requisito obrigatório a criação de uma conta para utilização 
+  gratuita do <i>Azure</i> por 30 dias, cujas instruções foram passadas em módulo anterior ao laboratório. </p>  
 
 --- 
 ## 🗒️RESUMO DOS TÓPICOS:  
