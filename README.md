@@ -42,7 +42,7 @@
 <p align='justify'>- A Microsoft não se reponsabiliza pela queda de serviços que usam recursos em produção ou VERSÃO PRÉVIA, por isso não há como reclamar, 
   porque o risco é de quem decidiu usar o recurso sem SLA.</p>
 <p align='justify'>- A computação em nuvem é um conhecimento essencial a qualquer profissional de TI para lidar, por exemplo, com a necessidade básica de 
-  sincronizar arquivos com a nuvem. Essa habilidade é importante para desenvolvedores que trabalham com IA, banco de dados, computação e outros.</p>  
+  sincronizar arquivos com a nuvem. No mwrcado de trabalho, essa habilidade é esperada de desenvolvedores que trabalham com IA, banco de dados, computação e outros.</p>  
 
 ---  
 ## ✍️ AUTORA    
